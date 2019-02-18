@@ -110,7 +110,7 @@ stages {
 					 echo -e "**************** ERROR *********************\n"
 					  echo "Build - ABC.exe notfound $file "
 					  echo -e "********************************************\n"
-					  exit 1
+					  
 				fi
 				'''
 					}
